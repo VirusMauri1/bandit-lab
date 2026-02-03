@@ -26,3 +26,5 @@ password: morbNTDkSW6jIlUc0ymOdMaLnOlFVAaj
 password: dfwvzFQi4mU0wfNbFOe9RoWskMLg7eEc 
 ## Bandit Level 8 → Level 9 
 password: 4CKMh1JI91bUIZZPXDqGanal4xvAg0JM 
+## Bandit Level 9 → Level 10 
+password: FGUW5ilLVJrxX9kMYMmlN4MgbpfMiqey 
