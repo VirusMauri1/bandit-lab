@@ -20,3 +20,5 @@ password: 4oQYVPkxZOOEOO5pTW81FB8j8lxXGUQw
 
 ## Bandit Level 5 → Level 6 
 password: HWasnPhtq9AVKe0dmk45nxy20cvUa6EG 
+## Bandit Level 6 → Level 7 
+password: morbNTDkSW6jIlUc0ymOdMaLnOlFVAaj 
