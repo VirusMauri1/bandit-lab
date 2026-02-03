@@ -28,3 +28,5 @@ password: dfwvzFQi4mU0wfNbFOe9RoWskMLg7eEc
 password: 4CKMh1JI91bUIZZPXDqGanal4xvAg0JM 
 ## Bandit Level 9 → Level 10 
 password: FGUW5ilLVJrxX9kMYMmlN4MgbpfMiqey 
+## Bandit Level 10 → Level 11 
+password:  dtR173fZKb0RRsDFSGsg2RWnpNVj3qRr 
